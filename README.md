@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @siiiims
+- I'm currently getting my Kubernetes certification!
